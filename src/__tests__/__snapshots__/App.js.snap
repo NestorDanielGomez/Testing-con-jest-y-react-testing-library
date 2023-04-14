@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App/>Agrega cita en el DOM 1`] = `
+Array [
+  <div
+    class="cita"
+    data-testid="cita"
+  >
+    <p>
+      Mascota: 
+      <span>
+        Yaco
+      </span>
+       
+    </p>
+    <p>
+      Dueño: 
+      <span>
+        Nestor
+      </span>
+       
+    </p>
+    <p>
+      Fecha: 
+      <span>
+        2023-03-03
+      </span>
+       
+    </p>
+    <p>
+      Hora: 
+      <span>
+        10:30
+      </span>
+       
+    </p>
+    <p>
+      Sintomas: 
+      <span>
+        come mucho
+      </span>
+       
+    </p>
+    <button
+      class="button eliminar u-full-width"
+    >
+      Eliminar ×
+    </button>
+  </div>,
+]
+`;
